@@ -1,4 +1,4 @@
-# 
+# custom Audacity for macOS Preset | compressor + collaboration-tools is the best Audacity for macOS preset, featuring compressor and collaboration-tools. Safe, efficient, and
 
 
 
